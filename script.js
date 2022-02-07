@@ -3,6 +3,13 @@ const ejercicio1 = [
   19, 88, 456, 13, 23, 24,
 ];
 
+for (let indice = 0; indice < ejercicio1; indice++){
+  if(ejercicio1[indice]==3){
+    console.log(ejercicio1[indice])
+  }
+  
+}
+
 const ejercicio2 = [
   {
     nombre: "Gabriel",
